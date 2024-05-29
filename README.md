@@ -1,2 +1,2 @@
 # ibibio-tokenizer
-A Custom Byte Pair Encoding Tokenizer For Ibibio Language
+A Custom Byte Pair Encoding Tokenizer Trained to Understand Ibibio Language
